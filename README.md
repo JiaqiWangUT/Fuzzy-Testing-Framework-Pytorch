@@ -6,6 +6,7 @@ This repository contains the PyTorch implementation of FuzzyTesting Framework of
 Our original framework is implemented based on several Fuzzy Testing Framework such as DeepHunter, DeepGauge, DeepTest. Besides, we implemented decision oracle to replace classification oracle in order to generate more meaningful corner cases/uncommon cases
 
 ├── README.md
+
 ├── captum/
 ├── gen_input/
 ├── data_loader.py
